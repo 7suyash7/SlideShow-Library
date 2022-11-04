@@ -1,0 +1,22 @@
+{
+  "name": "slideshow.js",
+  "version": "1.0.0",
+  "description": "A JavaScript Library to add a SlideShow of pictures to any Website",
+  "main": "slideshow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7suyash7/SlideShow-Library.git"
+  },
+  "keywords": [
+    "slideshow.js"
+  ],
+  "author": "Suyash Nayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7suyash7/SlideShow-Library/issues"
+  },
+  "homepage": "https://github.com/7suyash7/SlideShow-Library#readme"
+}
